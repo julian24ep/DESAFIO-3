@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "gorra1",
+    "color": "rosa",
+    "precio": 100,
+    "tipo": "ropa",
+    "id": 1
+  },
+  {
+    "nombre": "gorra2",
+    "color": "rosa",
+    "precio": 100,
+    "tipo": "ropa",
+    "id": 2
+  },
+  {
+    "nombre": "gorra3",
+    "color": "rosa",
+    "precio": 100,
+    "tipo": "ropa",
+    "id": 3
+  },
+  {
+    "nombre": "gorra4",
+    "color": "rosa",
+    "precio": 100,
+    "tipo": "ropa",
+    "id": 4
+  },
+  {
+    "nombre": "gorra4",
+    "color": "rosa",
+    "precio": 100,
+    "tipo": "ropa",
+    "id": 5
+  },
+  {
+    "nombre": "gorra4",
+    "color": "rosa",
+    "precio": 100,
+    "tipo": "ropa",
+    "id": 6
+  },
+  {
+    "nombre": "gorra4",
+    "color": "rosa",
+    "precio": 100,
+    "tipo": "ropa",
+    "id": 7
+  },
+  {
+    "nombre": "gorra4",
+    "color": "rosa",
+    "precio": 100,
+    "tipo": "ropa",
+    "id": 8
+  }
+]
